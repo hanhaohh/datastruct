@@ -1,2 +1,2 @@
-PRINT 5
+PRINT 5 print 5:wq
 this is a second file
